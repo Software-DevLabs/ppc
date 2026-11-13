@@ -1,0 +1,17 @@
+# deploy only ships what the standalone macterm site needs
+dist
+dist-macterm
+node_modules
+resources
+api
+{api
+public/macterm/Recording_10_28_2026_8_35_08_AM.mp4
+public/macterm/before footer.png
+public/macterm/design.png
+public/products_ogi
+public/card1_ai_agent_for_campagny.png
+public/card2_ai_agent_secure_server_analyst.png
+public/card3_ai_agent_automation.png
+public/eyes.svg
+public/lnd.png
+public/logo.png

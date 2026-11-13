@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "vite build --config vite.macterm.config.js",
+  "outputDirectory": "dist-macterm",
+  "rewrites": [
+    { "source": "/((?!assets/).*)", "destination": "/macterm.html" }
+  ]
+}
